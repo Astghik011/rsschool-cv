@@ -6,8 +6,8 @@
 
 ## **Contacts**
 
-email: astghiksimonyan56@gmail.com
-github: Astghik011
+`email: astghiksimonyan56@gmail.com
+github: Astghik011`
 
 ## **Employment**
 

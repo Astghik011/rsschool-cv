@@ -1,8 +1,8 @@
 ![My photo](/markdown.jpg)
 
 # **ASTGHIK SIMONYAN**
-### *an English teacher with 10 years of experience*
-### Armenia
+##### *an English teacher with 10 years of experience*
+##### Armenia
 
 ## **Contacts**
 

@@ -16,15 +16,6 @@ body{
     background-color: black;
 }
 
-img{
-    width:400px;
-    height:400px;
-    margin: 0 auto;
-    border-radius:50%;
-    display:flex;
-    align-self: center;
-}
-
 h1{
     text-align: center;
     text-transform: capitalize;
